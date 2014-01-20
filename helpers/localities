@@ -1,0 +1,67 @@
+<option>Acharya Vihar</option>
+<option>Ag Colony</option>
+<option>Arugul</option>
+<option>Balianta</option>
+<option>Baragarh</option>
+<option>Baramunda</option>
+<option>Bhoi Nagar</option>
+<option>Bhouma Nagar</option>
+<option>Bjb Nagar</option>
+<option>Bomikhal</option>
+<option>Budheswari Colony</option>
+<option>Chandrasekharpur</option>
+<option>Cifa</option>
+<option>Cuttack Road</option>
+<option>Damana</option>
+<option>Delta Colony</option>
+<option>Delta Square</option>
+<option>Dumuduma</option>
+<option>Forest Park</option>
+<option>Gajpati Nagar</option>
+<option>Ganesh Nagar</option>
+<option>Ganga Nagar</option>
+<option>Gautam Nagar</option>
+<option>Ghatikia</option>
+<option>Gopabandhu Nagar</option>
+<option>Industrial Area</option>
+<option>Jagamara</option>
+<option>Jagmohan Nagar</option>
+<option>Jatni Road</option>
+<option>Jaydev Vihar</option>
+<option>Jharpada</option>
+<option>Kalinga</option>
+<option>Kalinga Nagar</option>
+<option>Kapileshwar Prasad</option>
+<option>Khandagiri</option>
+<option>Kharavela Nagar</option>
+<option>Khurda</option>
+<option>Lakshmi Sagar</option>
+<option>Lewis Road</option>
+<option>Madhusudan Nagar</option>
+<option>Mahatab Road</option>
+<option>Mancheswar</option>
+<option>Nayapalli</option>
+<option>Palasuni</option>
+<option>Patia</option>
+<option>Patrapada</option>
+<option>Pokhariput</option>
+<option>Raghunathpur</option>
+<option>Rasulgarh</option>
+<option>Sahid Nagar</option>
+<option>Sailashree Vihar</option>
+<option>Samadhi</option>
+<option>Samantarapur</option>
+<option>Sastri Nagar</option>
+<option>Satya Nagar</option>
+<option>Shree Ram Nagar</option>
+<option>Sum Hospital</option>
+<option>Sundarpada</option>
+<option>Surya Nagar</option>
+<option>Tamando</option>
+<option>Tankapani Road</option>
+<option>Unit 9</option>
+<option>Vani Vihar</option>
+
+
+
+jQuery('#neighborhood_id').val(jQuery('#neighborhood option:selected').val());jQuery('#neighborhood_name').val(jQuery('#neighborhood option:selected').html());

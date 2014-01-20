@@ -1,0 +1,44 @@
+body{
+	height:100%;
+	padding:0;
+	background-color: #eee;
+	color:#444;
+}
+
+section .main{
+	margin-top: 50px;
+}
+
+.bluebar{
+	margin-top:50px;
+	height:5px;
+	width:100%;
+	background-color: #2e8ece;
+	position:fixed;
+	z-index: 1;
+}
+
+.jumbotron h1{
+	color: #1abc9c;
+}
+
+.jumbotron p{
+	color: #8e44ad;
+}
+
+.sidebar-login-form{
+	padding-top:20px;
+	padding-bottom:20px;
+}/*This is tweaks for sidebar-signing.php. The labels look more aligned.*/
+
+.sidebar-login-label{
+	padding:2px;
+	padding-top:4px;
+}/*This is helps the labels to align perfectly, could be removed in worst case*/
+
+hr{
+	border:0;
+	height: 0;
+	border-top:1px solid rgba(0,0,0,0.1);
+	border-bottom:1px solid rgba(255, 255, 255, 0.3);
+}
