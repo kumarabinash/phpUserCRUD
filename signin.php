@@ -1,7 +1,11 @@
+<?php require_once "dist/components/php/session.php"; ?>
+<?php require_once "dist/components/php/connection.php"; ?>
+<?php require_once "dist/components/php/functions.php"; ?>
+
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ClickFix -- About</title>
+	<title>MySite -- Signin</title>
 	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="dist/css/bootstrap.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="dist/css/mystyle.css" media="screen">
@@ -13,6 +17,7 @@
 			<?php include "dist/components/php/header.php"; ?>
 			<section class="main col col-lg-8">
 				<h2>Main Content </h2>
+				<?php include "dist/components/php/sidebar-signin.php"; ?>
 
 			</section>
 			<section class="main col col-lg-4">
@@ -22,7 +27,7 @@
 		<?php include "dist/components/php/footer.php"; ?>
 	</section>
 
-	<script type="text/javascript" src="dist/js/bootsrap.js"></script>
+	<script type="text/javascript" src="dist/js/bootstrap.js"></script>
 	<script type="text/javascript" src="dist/js/myscript"></script>
 </body>
 </html>

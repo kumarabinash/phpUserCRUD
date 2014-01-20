@@ -14,7 +14,7 @@
 					      <span class="icon-bar"></span>
 					      <span class="icon-bar"></span>
 					    </button>
-						<a class="navbar-brand" href="index.php">Click<span class="glyphicon glyphicon-hand-up">Fix</a><!--CHANGE LINK -->
+						<a class="navbar-brand" href="index.php">MySite</a><!--CHANGE LINK -->
 					</div>
 
 					<div class="collapse navbar-collapse" id="collapsedcontent">

@@ -34,7 +34,7 @@
 					$_SESSION['userfb'] = $result2['userfb'];
 					$_SESSION['userid'] = $result2['id'];
 				} else {
-					$_SESSION['userfb'] = 'bhabani.biswal.79';
+					$_SESSION['userfb'] = 'kumar.abinash';
 				}
 				$_POST = array();
 				$_SESSION['useremail'] = $dbemail;

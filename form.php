@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ClickFix -- Fix</title>
+	<title>MySite -- Fix</title>
 	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="dist/css/bootstrap.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="dist/css/mystyle.css" media="screen">

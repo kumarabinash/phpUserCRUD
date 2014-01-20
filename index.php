@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ClickFix -- Home</title>
+	<title>MySite -- Home</title>
 	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="dist/css/bootstrap.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="dist/css/mystyle.css" media="screen">
